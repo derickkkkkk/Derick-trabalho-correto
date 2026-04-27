@@ -1,11 +1,14 @@
-  .identificação{
-            color: rgb(0, 0, 0);
-        }
+  .identificação {
+      color: rgb(0, 0, 0);
+  }
 
-        .galeria {
-            width: 40%;
-        }
+  .galeria {
+      width: 40%;
+  }
 
-        body {
-            background-color: rgb(227, 255, 249);
-        }
+  body {
+      background-color: rgb(227, 255, 249);
+      display: flex;
+      align-items: ;
+      justify-content: ;
+  }
